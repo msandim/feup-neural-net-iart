@@ -39,6 +39,6 @@ The interface allows the user to modify the:
 * Train and test data paths;
 * Medium Squared Error value to achieve convergence in the algorithm;
 * Maximum number of iterations;
-* types of recordings present on the train and test phases.
+* Types of recordings present on the train and test phases.
 
 On the right panel the MSE for the training set on each iteration is showed, along with the number of well-classified cases. After the training process is concluded, the same information is reported for the test set.
