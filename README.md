@@ -4,9 +4,7 @@ This repository contains a Artificial Backpropagation Multilayer Neural Network 
 
 The goal was to build an efficient Neural Network, using the Backpropagation algorithm in the learning process, to diagnose patients from a dataset based on their voice's physical characteristics.
 
-Application developed by 
-- [JPMMaia](https://github.com/JPMMaia)
-- [msandim](https://github.com/msandim)
+This project was developed by [JPMMaia](https://github.com/JPMMaia) and [msandim](https://github.com/msandim).
 
 ## 1. Project structure
 
