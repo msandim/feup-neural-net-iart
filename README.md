@@ -5,7 +5,7 @@ The goal was to build an efficient Neural Network, using the Backpropagation alg
 
 This project was developed by [JPMMaia](https://github.com/JPMMaia) and [msandim](https://github.com/msandim).
 
-To run the application, check the [releases](https://github.com/msandim/neural-net-iart/releases). For further information on the topics of this project, check the [report](https://github.com/msandim/neural-net-iart/raw/master/resources/report.pdf) (portuguese only).
+To run the application, go to the [releases page](https://github.com/msandim/neural-net-iart/releases). For further information on the topics of this project, check the [report](https://github.com/msandim/neural-net-iart/raw/master/resources/report.pdf) (portuguese only).
 
 ## 1. Project structure
 
