@@ -1,4 +1,4 @@
-# Backpropagation Artificial Neural Network in Java
+# Parkinson Detector
 
 This repository contains a Artificial Backpropagation Multilayer Neural Network implementation developed on the "Artificial Intelligence" course at FEUP.
 The goal was to build an efficient Neural Network, using the Backpropagation algorithm in the learning process, to diagnose patients from a dataset based on their voice's physical characteristics.
