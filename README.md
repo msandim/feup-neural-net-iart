@@ -30,7 +30,7 @@ More information on this algorithm is available here:
 
 ![gui](https://github.com/msandim/neural-net-iart/blob/master/imgs/gui.png?raw=true)
 
-The interce allows the user to modify the:
+The interface allows the user to modify the:
 * Number of neurons on each hidden layer;
 * Learning rate and momentum values;
 * Train and test data paths;
