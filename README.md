@@ -1,12 +1,11 @@
 # Backpropagation Artificial Neural Network in Java
 
 This repository contains a Artificial Backpropagation Multilayer Neural Network implementation developed on the "Artificial Intelligence" course at FEUP.
-
 The goal was to build an efficient Neural Network, using the Backpropagation algorithm in the learning process, to diagnose patients from a dataset based on their voice's physical characteristics.
 
 This project was developed by [JPMMaia](https://github.com/JPMMaia) and [msandim](https://github.com/msandim).
 
-For further information on the topics of this README, check the project [report](https://github.com/msandim/neural-net-iart/raw/master/resources/report.pdf) (portuguese only).
+To run the application, check the [releases](https://github.com/msandim/neural-net-iart/releases). For further information on the topics of this project, check the [report](https://github.com/msandim/neural-net-iart/raw/master/resources/report.pdf) (portuguese only).
 
 ## 1. Project structure
 
