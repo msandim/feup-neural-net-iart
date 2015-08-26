@@ -17,7 +17,7 @@ For further information on the topics of this README, check the project [report]
 - **test_data** - data files used in **test**;
 - **uml** - class diagram of the application.
 
-Run note: The main function is included in "GUIMain.java". The main function in the "Program.java" was only used for development debugging.
+*Note: The main function is included in "GUIMain.java". The main function in the "Program.java" was only used for development debugging.*
 
 ## 2. Dataset
 
