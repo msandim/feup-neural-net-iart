@@ -6,12 +6,16 @@ The goal was to build an efficient Neural Network, using the Backpropagation alg
 
 This project was developed by [JPMMaia](https://github.com/JPMMaia) and [msandim](https://github.com/msandim).
 
+For further information on the topics of this README, check the project [report](https://github.com/msandim/neural-net-iart/raw/master/resources/report.pdf) (portuguese only).
+
 ## 1. Project structure
 
-- "data" - contains the train and test data;
-- "src" - source code of the application;
-- "test" - unit tests used in the development phase;
-- "uml" - class diagram of the application.
+- **data** - contains the train and test data;
+- **resources** - resources for this README;
+- **src** - source code of the application;
+- **test** - unit tests used in the development phase;
+- **test_data** - data files used in **test**;
+- **uml** - class diagram of the application.
 
 Run note: The main function is included in "GUIMain.java". The main function in the "Program.java" was only used for development debugging.
 
@@ -28,7 +32,7 @@ More information on this algorithm is available here:
 
 ## 4. Graphical User Interface
 
-![gui](https://github.com/msandim/neural-net-iart/blob/master/imgs/gui.png?raw=true)
+![gui](https://github.com/msandim/neural-net-iart/blob/master/resources/gui.png?raw=true)
 
 The interface allows the user to modify the:
 * Number of neurons on each hidden layer;
