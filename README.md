@@ -31,7 +31,7 @@ More information on this algorithm is available here:
 
 ## 4. Graphical User Interface
 
-![gui](https://github.com/msandim/neural-net-iart/blob/master/resources/gui.png?raw=true)
+![gui](https://github.com/msandim/neural-net-iart/raw/master/resources/gui.png)
 
 The interface allows the user to modify the:
 * Number of neurons on each hidden layer;
