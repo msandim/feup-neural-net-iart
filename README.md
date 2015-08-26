@@ -41,4 +41,4 @@ The interface allows the user to modify the:
 * Maximum number of iterations;
 * Types of recordings present on the train and test phases.
 
-On the right panel the MSE for the training set on each iteration is showed, along with the number of well-classified cases. After the training process is concluded, the same information is reported for the test set.
+On the right panel, the MSE for the training set on each iteration is showed, along with the number of well-classified cases. After the training process is concluded, the same information is reported for the test set.
