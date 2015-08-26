@@ -16,7 +16,7 @@ To run the application, check the [releases](https://github.com/msandim/neural-n
 - **test_data** - data files used in **test**;
 - **uml** - class diagram of the application.
 
-*Note: The main function is included in "GUIMain.java". The main function in the "Program.java" was only used for development debugging.*
+*Note: The main function is included in "GUIMain.java". The main function in "Program.java" was only used for development debugging.*
 
 ## 2. Dataset
 
